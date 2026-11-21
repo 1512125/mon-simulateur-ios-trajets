@@ -1,0 +1,67 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+build/
+Payload/
+*.xcarchive/
+*.xcresult/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM/
+*.log
+.svn/
+
+# XcodeGen
+.xcodegen/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Downloaded idevice build inputs
+/Vendor/idevice/idevice.h
+/Vendor/idevice/libidevice_ffi.a
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.*
+*.pem
+*.key
+
+# Device pairing and code signing
+*.mobiledevicepairing
+*.p12
+*.mobileprovision
+*.provisionprofile
+*.certSigningRequest
+
+# Temporary files
+tmp/
+temp/
+logs/
+.superpowers/
+
+# Website dependencies and generated output
+/website/node_modules/
+/website/dist/
+/website/.npm-cache/
+/website/design-qa.md
+/website/AGENTS.md

@@ -1,0 +1,1 @@
+Mon Simulateur 1.1.0 — version source avec trajets routiers Apple Plans. Base Waypoint v1.0.5 (AGPL-3.0). Menu Trajet, choix de vitesse, pause, reprise et arrêt. Lancer Build unsigned IPA sur un runner macOS.
